@@ -1,7 +1,6 @@
 <img src="https://i.postimg.cc/HHCdTyTV/Black-Gradient-Minimalist-Corporate-Business-Personal-Profile-New-Linked-In-Banner.png" alt="Welcome Banner" style="width: 100%; border-radius: 12px;"/>
 
-<p style='margin-top:11px'>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFA500&&vCenter=true&width=800&lines=Hi, I'm Yashraj .+.+. ; Aka, Jadu .+.+."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFA500&&vCenter=true&width=800&lines=Hi,+I'm+Yashraj+.+.+.;Aka,+Jadu+.+.+." alt="Typing SVG"/>
 
 <p style="font-family: monospace; margin-top:-14px">
 I’m a passionate web developer and a tech enthusiast focused on building clean, efficient, and scalable applications. Currently, I’m honing my skills in Python, Data Structures & Algorithms, and Arduino projects. I enjoy blending creativity with culture and love collaborating on cool projects. Check out my repos!
