@@ -16,6 +16,6 @@ Bridge the gap and link our worlds, let's connect!
   <a href="https://www.instagram.com/_jadu_._"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://dev.to/Jadu07"><img src="https://img.shields.io/badge/Dev.to-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>
   <a href="https://medium.com/@Jadu07"><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://jadu-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://yashraj.tech/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
   <a href="mailto:yashrajchouhan14@gmail.com"><img src="https://img.shields.io/badge/Email-%230077B5.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
